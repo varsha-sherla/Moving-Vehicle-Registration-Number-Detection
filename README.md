@@ -60,7 +60,7 @@ To clone the repository and navigate to its directory, use these commands:
 
 ```bash
 
-git clonehttps://github.com/varsha-sherla/Moving-Vehicle-Registration-Number-Detection/tree/main
+git clone  https://github.com/varsha-sherla/Moving-Vehicle-Registration-Number-Detection
 cd Moving_Vehicle_Registration_Number_Detection
 ```
 

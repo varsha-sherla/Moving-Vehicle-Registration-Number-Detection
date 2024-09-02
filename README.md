@@ -11,7 +11,6 @@ Here's an overview of the key files and their roles in the repository:
 - **main.py**: Main script for processing video, detecting vehicles, and extracting license plate text.
 - **sort.py**: Implementation of the SORT (Simple Online and Realtime Tracking) algorithm.
 - **best.pt**: Pre-trained YOLOv8 model for license plate detection.
-- **kia_alto.mp4**: Sample video for testing the detection workflow.
 - **README.md**: Project documentation (this file).
 
 ## Methodology
@@ -62,14 +61,5 @@ To clone the repository and navigate to its directory, use these commands:
 
 git clone  https://github.com/varsha-sherla/Moving-Vehicle-Registration-Number-Detection
 cd Moving_Vehicle_Registration_Number_Detection
-```
 
-## Usage
-To run the project and test the detection on the sample video:
-
-Clone the repository and navigate to its directory.
-Ensure the kia_alto.mp4 video file and best.pt YOLOv8 model are in the same directory as main.py.
-Execute main.py with Python to process the video and detect license plates:
-```bash
-python main.py
 ```

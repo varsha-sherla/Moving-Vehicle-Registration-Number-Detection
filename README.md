@@ -59,7 +59,8 @@ To clone the repository and navigate to its directory, use these commands:
 
 ```bash
 
-git clone  https://github.com/varsha-sherla/Moving-Vehicle-Registration-Number-Detection
-cd Moving_Vehicle_Registration_Number_Detection
+git clone https://github.com/varsha-sherla/Moving-Vehicle-Registration-Number-Detection.git
+cd Moving-Vehicle-Registration-Number-Detection
+
 
 ```

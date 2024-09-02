@@ -3,7 +3,7 @@
 
 
 ## Overview
-This project is designed to detect and recognize vehicle registration numbers (license plates) from video footage. It employs object detection, tracking, and optical character recognition (OCR) to identify vehicles, track them, and extract text from license plates.
+This project is designed to detect and recognize vehicle registration numbers (license plates) from video footage. It employs object detection, tracking, and optical character recognition (OCR) to identify vehicles, track them, and extract text from license plate. It is designed for applications in traffic monitoring, security, and surveillance. The model achieves high accuracy with a recall of 93.8% and a precision of 88.73%, effectively identifying license plates even under varying speeds and lighting conditions. Its performance is further validated by an mAP50 score of 95.3%, showcasing its robustness in real-world scenarios.
 
 ## Project Structure
 Here's an overview of the key files and their roles in the repository:
